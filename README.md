@@ -99,5 +99,10 @@ If the backend is hosted elsewhere, copy `frontend/.env.example` to `frontend/.e
 7. Capture the dense environment table and AI provenance panel.
 
 
-## AI assistant use
-ChatGPT was used to scaffold and refine parts of the API, UI, and documentation. The interface avoids generic gradient KPI cards and instead prioritizes a dense table, clear status distribution, and transparent AI-versus-rules provenance. The AI feature is bounded: deterministic backend rules identify at-risk candidates, Ollama explains a small priority batch, learner IDs are validated, and deterministic fallback covers the rest.
+## AI Assistant Use
+Cursor and Claude were used to scaffold, develop, debug, and refine parts of the API, frontend UI, and documentation.
+The interface avoids generic gradient KPI cards and instead prioritizes a dense environment table, clear status distribution, and transparent AI-versus-rules provenance.
+
+The AI feature is bounded: deterministic backend rules identify at-risk candidates, Ollama analyzes a small priority batch, learner IDs are validated, and deterministic fallback recommendations cover the remaining learners when needed.
+
+
