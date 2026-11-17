@@ -4,8 +4,9 @@ A table-first operations console for a simulated Azure workshop with 120 learner
 
 **Design intent:** restrained operations-console styling, dense scan-friendly data, explicit AI provenance, and status color used only to communicate environment state.
 
-<img width="1910" height="918" alt="image" src="https://github.com/user-attachments/assets/1d442ad2-cc40-43d4-8465-a8d643cae829" />
-<img width="1553" height="822" alt="image" src="https://github.com/user-attachments/assets/8eb08018-96ec-4bcd-8404-5b5fcc6f9f2b" />
+<img width="1917" height="920" alt="image" src="https://github.com/user-attachments/assets/70cad906-8829-4ec7-a485-0659766ff33d" />
+<img width="1510" height="812" alt="image" src="https://github.com/user-attachments/assets/c7382d8b-7bf7-45af-b5b8-d556a6eb9f3f" />
+<img width="1538" height="872" alt="image" src="https://github.com/user-attachments/assets/1233df0d-6511-4799-a0f8-5052369bf0ea" />
 
 
 ## Stack
