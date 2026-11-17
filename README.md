@@ -98,8 +98,6 @@ If the backend is hosted elsewhere, copy `frontend/.env.example` to `frontend/.e
 6. Use Reset demo before the final recording to restore a balanced starting dataset.
 7. Capture the dense environment table and AI provenance panel.
 
-## Data and limitations
-All learner records and Azure environment states are synthetic. This prototype does not provision, inspect, or connect to real Azure resources. Estimated spend is illustrative and calculated from the seeded hourly rate and runtime. Ollama runs locally on the machine hosting the backend; a browser on another device uses the backend's AI service and does not need its own Ollama installation.
 
 ## AI assistant use
 ChatGPT was used to scaffold and refine parts of the API, UI, and documentation. The interface avoids generic gradient KPI cards and instead prioritizes a dense table, clear status distribution, and transparent AI-versus-rules provenance. The AI feature is bounded: deterministic backend rules identify at-risk candidates, Ollama explains a small priority batch, learner IDs are validated, and deterministic fallback covers the rest.
