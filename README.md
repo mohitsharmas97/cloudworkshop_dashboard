@@ -4,6 +4,10 @@ A table-first operations console for a simulated Azure workshop with 120 learner
 
 **Design intent:** restrained operations-console styling, dense scan-friendly data, explicit AI provenance, and status color used only to communicate environment state.
 
+<img width="1910" height="918" alt="image" src="https://github.com/user-attachments/assets/1d442ad2-cc40-43d4-8465-a8d643cae829" />
+<img width="1553" height="822" alt="image" src="https://github.com/user-attachments/assets/8eb08018-96ec-4bcd-8404-5b5fcc6f9f2b" />
+
+
 ## Stack
 - Frontend: React + Vite
 - Backend: FastAPI
